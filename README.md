@@ -2,7 +2,6 @@
 # Hi there 👋
 ### 🚀 About Me
 
-#### AWS Cloud Specialist
 ![Full Stack web Developer || MERN Stack Developer](awscerts.jpeg)
 
 
