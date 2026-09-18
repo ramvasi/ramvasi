@@ -2,7 +2,7 @@
 # Hi there 👋, My Name is Ram Vasireddy
 #### AWS Cloud Specialist
 
-![Full Stack web Developer || MERN Stack Developer](6rxj10gondve1.jpeg)
+![Full Stack web Developer || MERN Stack Developer](awscerts.jpeg)
 
 ### 🚀 About Me
 I'm Ram Vasireddy, a AWS Cloud Specialist, specializing in Full Stack MERN (MongoDB, Express.js, React, Node.js) Web Development. I thrive on utilizing a range of web development tools and technologies to craft dynamic and intuitive web applications.
