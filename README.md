@@ -1,10 +1,11 @@
 
 # Hi there 👋
-#### AWS Cloud Specialist
+### 🚀 About Me
 
+#### AWS Cloud Specialist
 ![Full Stack web Developer || MERN Stack Developer](awscerts.jpeg)
 
-### 🚀 About Me
+
 I'm Ram Vasireddy, a AWS Cloud Specialist. My expertise -
 
 -	Agentic AI & Multi-Agent Systems, Tools & Context Management
