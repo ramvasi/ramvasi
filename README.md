@@ -1,5 +1,5 @@
 
-# Hi there 👋, My Name is Ram Vasireddy
+# Hi there 👋
 #### AWS Cloud Specialist
 
 ![Full Stack web Developer || MERN Stack Developer](awscerts.jpeg)
